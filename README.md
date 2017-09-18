@@ -1,7 +1,6 @@
 <!DOCTYPE html>
   <html>
     <head>
-      <meta charset="utf-8" />
     </head>
     <body>
       <h1 title = "بسم الله الرحمن الرحیم" align="center"><b><i><font face="arial black" 
